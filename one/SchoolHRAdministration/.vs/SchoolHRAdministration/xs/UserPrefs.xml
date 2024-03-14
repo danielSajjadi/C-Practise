@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{86A6AD68-13F6-475E-9F13-B8D4CEE2DFFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.HRAdministrationAPI FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SchoolHRAdministration FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SchoolHRAdministration PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>

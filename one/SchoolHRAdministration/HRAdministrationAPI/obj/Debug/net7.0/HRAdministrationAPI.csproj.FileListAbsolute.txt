@@ -1,0 +1,11 @@
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.deps.json
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/refint/HRAdministrationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/one/SchoolHRAdministration/HRAdministrationAPI/obj/Debug/net7.0/ref/HRAdministrationAPI.dll
