@@ -1,5 +1,33 @@
 ﻿<Properties StartupConfiguration="{86A6AD68-13F6-475E-9F13-B8D4CEE2DFFE}|Default">
-  <MonoDevelop.Ide.ItemProperties.HRAdministrationAPI FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SchoolHRAdministration PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolHRAdministration/Program.cs">
+    <Files>
+      <File FileName="SchoolHRAdministration/Program.cs" Line="87" Column="21" />
+      <File FileName="HRAdministrationAPI/IEmployee.cs" Line="9" Column="31" />
+      <File FileName="HRAdministrationAPI/EmployeeBase.cs" Line="4" Column="16" />
+      <File FileName="HRAdministrationAPI/FactoryPattern.cs" Line="4" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SchoolHRAdministration">
+            <Node name="HRAdministrationAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SchoolHRAdministration PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
