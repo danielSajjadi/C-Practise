@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H1r4MCWiPISBcKfSaBS9jzT6bOg4Bfv03XmLCLpgvII6om3yQ62FHnRUZEcWUQP8mIRcvhsaLB/MrDnr90kwQw==",
+  "dgSpecHash": "y1JiR61NGivGzU/7Mjljuy8HVH2a4JPjpWQhrmYrVJgPGfaKkFP7bl+J42/cKvkCno0I8NBJS2RCfdLPFkfZ3Q==",
   "success": true,
   "projectFilePath": "/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/CLubMembershipApplication/CLubMembershipApplication.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,8 @@
     "/Users/danial/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/danial/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/danial/.nuget/packages/microsoft.netcore.targets/1.1.2/microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "/Users/danial/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/danial/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.2/microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
     "/Users/danial/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/Users/danial/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
     "/Users/danial/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",

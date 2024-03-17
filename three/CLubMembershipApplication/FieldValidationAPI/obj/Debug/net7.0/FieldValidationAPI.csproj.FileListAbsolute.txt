@@ -1,0 +1,11 @@
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/bin/Debug/net7.0/FieldValidationAPI.deps.json
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/bin/Debug/net7.0/FieldValidationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/bin/Debug/net7.0/FieldValidationAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/refint/FieldValidationAPI.dll
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/FieldValidationAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/obj/Debug/net7.0/ref/FieldValidationAPI.dll

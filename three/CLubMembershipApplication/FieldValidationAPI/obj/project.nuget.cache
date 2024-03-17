@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BWLNyk2hPawj+hpomIj5C434sno0Q3psc2cSUNBUclRPNrJH+3bV89g6oh0AZ+i/AAdGmyplc9WN3lCUmO0sRQ==",
+  "dgSpecHash": "bNpN5lWNKv1Iv1WYvPqqYYcxZsl5WnCavDlJTzIhitPuNaQzk/x/J6YLV2ZVYFGWdbGvioa+v8CDAxrUKdMwVg==",
   "success": true,
   "projectFilePath": "/Users/danial/Google Drive/222 learning/c#/three/CLubMembershipApplication/FieldValidationAPI/FieldValidationAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/danial/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/danial/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.2/microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
