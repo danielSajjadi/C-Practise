@@ -20,9 +20,15 @@ namespace DelegateBasicExample
             Console.WriteLine("Please enter your name: ");
             var name = Console.ReadLine();
 
-            multiLogDel(name);
+            LogText(multiLogDel, name);
             Console.ReadKey();
             
+        }
+
+        static void LogText(LogDel logDel, string text)
+        {
+            logDel(text);
+
         }
 
     }
