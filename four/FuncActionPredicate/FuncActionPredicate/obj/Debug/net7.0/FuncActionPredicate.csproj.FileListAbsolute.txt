@@ -1,0 +1,14 @@
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/bin/Debug/net7.0/FuncActionPredicate
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/bin/Debug/net7.0/FuncActionPredicate.deps.json
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/bin/Debug/net7.0/FuncActionPredicate.runtimeconfig.json
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/bin/Debug/net7.0/FuncActionPredicate.dll
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/bin/Debug/net7.0/FuncActionPredicate.pdb
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.dll
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/refint/FuncActionPredicate.dll
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.pdb
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/FuncActionPredicate.genruntimeconfig.cache
+/Users/danial/Google Drive/222 learning/c#/four/FuncActionPredicate/FuncActionPredicate/obj/Debug/net7.0/ref/FuncActionPredicate.dll
