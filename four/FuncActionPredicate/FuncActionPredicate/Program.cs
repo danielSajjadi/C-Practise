@@ -4,12 +4,14 @@
     {
         static void Main(string[] args)
         {
-            MathSum sumCal = new MathSum();
-            Func<int, int, int> cal = sumCal.Sum;
+        // MathSum sumCal = new MathSum();
+        // Func<int, int, int> cal = sumCal.Sum;
+        Func<int, int, int> calcu = delegate (int a, int b) { return a + b; };
 
-            int calcu = cal(20, 60);
+        //Func<int, int, int> calcu = (x, y) => x + y;
+            //int calcu = cal(20, 60);
 
-            Console.WriteLine("result -> " + calcu);
+            Console.WriteLine("result -> " + calcu(20, 40));
 
         }
     }
