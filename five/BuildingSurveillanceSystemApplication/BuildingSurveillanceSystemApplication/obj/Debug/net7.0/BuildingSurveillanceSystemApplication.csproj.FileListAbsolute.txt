@@ -1,0 +1,14 @@
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/bin/Debug/net7.0/BuildingSurveillanceSystemApplication
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/bin/Debug/net7.0/BuildingSurveillanceSystemApplication.deps.json
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/bin/Debug/net7.0/BuildingSurveillanceSystemApplication.runtimeconfig.json
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/bin/Debug/net7.0/BuildingSurveillanceSystemApplication.dll
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/bin/Debug/net7.0/BuildingSurveillanceSystemApplication.pdb
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.dll
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/refint/BuildingSurveillanceSystemApplication.dll
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.pdb
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/BuildingSurveillanceSystemApplication.genruntimeconfig.cache
+/Users/danial/Google Drive/222 learning/c#/five/BuildingSurveillanceSystemApplication/BuildingSurveillanceSystemApplication/obj/Debug/net7.0/ref/BuildingSurveillanceSystemApplication.dll
