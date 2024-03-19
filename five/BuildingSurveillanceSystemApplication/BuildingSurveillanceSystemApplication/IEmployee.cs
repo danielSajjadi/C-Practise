@@ -7,7 +7,6 @@ namespace BuildingSurveillanceSystemApplication
         string FirstName { get; set; }
         string LastName { get; set; }
         string JobTitle { get; set; }
-
     }
 
 }

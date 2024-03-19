@@ -3,21 +3,28 @@ namespace BuildingSurveillanceSystemApplication
 {
     public class EmployeeNotify : Observer
     {
-        IEmployee _employee = null;
+        IEmployee? _employee = null;
+
+
+        //constructer
         public EmployeeNotify(IEmployee employee)
         {
             _employee = employee;
         }
+
+        // override methods from Observer class
         public override void OnCompleted()
         {
-            string heading = $"{_employee.FirstName + " " + _employee.LastName} Daily Visitor's Report";
+            string heading = $"{_employee?.FirstName + " " + _employee?.LastName} Daily Visitor's Report";
             Console.WriteLine();
 
             Console.WriteLine(heading);
+
+            // to draw a line under report sentence
             Console.WriteLine(new string('-', heading.Length));
             Console.WriteLine();
 
-            foreach (var externalVisitor in _externalVisitors)
+            foreach (var externalVisitor in _externalVisitors) // the _externalVisitors is a list that comes from observer class  
             {
                 externalVisitor.InBuilding = false;
 
@@ -37,7 +44,7 @@ namespace BuildingSurveillanceSystemApplication
         {
             var externalVisitor = value;
 
-            if (externalVisitor.EmployeeContactId == _employee.Id)
+            if (externalVisitor.EmployeeContactId == _employee?.Id)
             {
                 var externalVisitorListItem = _externalVisitors.FirstOrDefault(e => e.Id == externalVisitor.Id);
 

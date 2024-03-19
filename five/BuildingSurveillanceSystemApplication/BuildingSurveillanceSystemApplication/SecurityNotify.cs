@@ -4,6 +4,7 @@ namespace BuildingSurveillanceSystemApplication
 	public class SecurityNotify : Observer
     {
 
+        // the same princip like employee class 
         public override void OnCompleted()
         {
             string heading = "Security Daily Visitor's Report";

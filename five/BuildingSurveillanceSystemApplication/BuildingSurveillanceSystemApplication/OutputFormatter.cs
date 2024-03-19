@@ -12,11 +12,13 @@ namespace BuildingSurveillanceSystemApplication
 
         public static void ChangeOutputTheme(TextOutputTheme textOutputTheme)
         {
+            // employee theme
             if (textOutputTheme == TextOutputTheme.Employee)
             {
                 Console.BackgroundColor = ConsoleColor.DarkMagenta;
                 Console.ForegroundColor = ConsoleColor.White;
             }
+            // security theme 
             else if (textOutputTheme == TextOutputTheme.Security)
             {
                 Console.BackgroundColor = ConsoleColor.DarkBlue;

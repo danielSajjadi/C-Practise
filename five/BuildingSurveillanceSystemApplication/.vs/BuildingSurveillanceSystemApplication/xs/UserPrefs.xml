@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{D7EB232E-3D50-4132-9A08-3022D221EB3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuildingSurveillanceSystemApplication/EmployeeNotify.cs">
+    <Files>
+      <File FileName="BuildingSurveillanceSystemApplication/Program.cs" Line="6" Column="2" />
+      <File FileName="BuildingSurveillanceSystemApplication/ExternalVisitor.cs" Line="13" Column="21" />
+      <File FileName="BuildingSurveillanceSystemApplication/OutputFormatter.cs" Line="31" Column="1" />
+      <File FileName="BuildingSurveillanceSystemApplication/SecuritySurveillanceHub.cs" Line="8" Column="1" />
+      <File FileName="BuildingSurveillanceSystemApplication/SecurityNotify.cs" Line="64" Column="6" />
+      <File FileName="BuildingSurveillanceSystemApplication/UnSubscriber.cs" Line="4" Column="30" />
+      <File FileName="BuildingSurveillanceSystemApplication/EmployeeNotify.cs" Line="47" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuildingSurveillanceSystemApplication">
+            <Node name="BuildingSurveillanceSystemApplication">
+              <Node name="EmployeeNotify.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BuildingSurveillanceSystemApplication FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BuildingSurveillanceSystemApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
