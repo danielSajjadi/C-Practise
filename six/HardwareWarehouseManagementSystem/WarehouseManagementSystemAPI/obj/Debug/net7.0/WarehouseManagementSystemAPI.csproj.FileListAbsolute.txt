@@ -1,0 +1,11 @@
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/bin/Debug/net7.0/WarehouseManagementSystemAPI.deps.json
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/bin/Debug/net7.0/WarehouseManagementSystemAPI.dll
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/bin/Debug/net7.0/WarehouseManagementSystemAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.dll
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/refint/WarehouseManagementSystemAPI.dll
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/WarehouseManagementSystemAPI.pdb
+/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/obj/Debug/net7.0/ref/WarehouseManagementSystemAPI.dll

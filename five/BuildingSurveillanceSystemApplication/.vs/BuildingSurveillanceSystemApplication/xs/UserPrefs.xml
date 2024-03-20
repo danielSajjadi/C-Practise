@@ -1,30 +1,32 @@
 ﻿<Properties StartupConfiguration="{D7EB232E-3D50-4132-9A08-3022D221EB3F}|Default">
-  <MonoDevelop.Ide.ItemProperties.BuildingSurveillanceSystemApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BuildingSurveillanceSystemApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="BuildingSurveillanceSystemApplication/SecuritySurveillanceHub.cs">
     <Files>
-      <File FileName="BuildingSurveillanceSystemApplication/Program.cs" Line="6" Column="2" />
-      <File FileName="BuildingSurveillanceSystemApplication/ExternalVisitor.cs" Line="13" Column="21" />
-      <File FileName="BuildingSurveillanceSystemApplication/OutputFormatter.cs" Line="21" Column="31" />
-      <File FileName="BuildingSurveillanceSystemApplication/SecuritySurveillanceHub.cs" Line="10" Column="10" />
-      <File FileName="BuildingSurveillanceSystemApplication/SecurityNotify.cs" Line="9" Column="10" />
-      <File FileName="BuildingSurveillanceSystemApplication/UnSubscriber.cs" Line="4" Column="61" />
-      <File FileName="BuildingSurveillanceSystemApplication/EmployeeNotify.cs" Line="72" Column="1" />
-      <File FileName="BuildingSurveillanceSystemApplication/Observer.cs" Line="7" Column="63" />
+      <File FileName="BuildingSurveillanceSystemApplication/Program.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/ExternalVisitor.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/OutputFormatter.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/SecuritySurveillanceHub.cs" Line="11" Column="64" />
+      <File FileName="BuildingSurveillanceSystemApplication/SecurityNotify.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/UnSubscriber.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/EmployeeNotify.cs" />
+      <File FileName="BuildingSurveillanceSystemApplication/Observer.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BuildingSurveillanceSystemApplication">
-            <Node name="BuildingSurveillanceSystemApplication" expanded="True" />
+            <Node name="BuildingSurveillanceSystemApplication" expanded="True">
+              <Node name="SecuritySurveillanceHub.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

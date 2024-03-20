@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "WarehouseManagementSystemAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/WarehouseManagementSystemAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WarehouseManagementSystemAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WarehouseManagementSystemAPI/1.0.0": {
+      "type": "project",
+      "path": "../WarehouseManagementSystemAPI/WarehouseManagementSystemAPI.csproj",
+      "msbuildProject": "../WarehouseManagementSystemAPI/WarehouseManagementSystemAPI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "WarehouseManagementSystemAPI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/danial/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/HardwareWarehouseManagementSystem/HardwareWarehouseManagementSystem.csproj",
+      "projectName": "HardwareWarehouseManagementSystem",
+      "projectPath": "/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/HardwareWarehouseManagementSystem/HardwareWarehouseManagementSystem.csproj",
+      "packagesPath": "/Users/danial/.nuget/packages/",
+      "outputPath": "/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/HardwareWarehouseManagementSystem/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/danial/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/WarehouseManagementSystemAPI.csproj": {
+              "projectPath": "/Users/danial/Google Drive/222 learning/c#/six/HardwareWarehouseManagementSystem/WarehouseManagementSystemAPI/WarehouseManagementSystemAPI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

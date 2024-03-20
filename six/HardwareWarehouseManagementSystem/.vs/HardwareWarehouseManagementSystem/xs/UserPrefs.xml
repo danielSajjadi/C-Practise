@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{AC2F7887-7CDE-4A2A-A42E-D1B1DF593EFB}|Default">
+  <MonoDevelop.Ide.ItemProperties.HardwareWarehouseManagementSystem PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WarehouseManagementSystemAPI FirstBuild="True" />
+</Properties>
