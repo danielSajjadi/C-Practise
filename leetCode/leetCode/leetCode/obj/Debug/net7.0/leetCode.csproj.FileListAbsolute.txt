@@ -1,0 +1,14 @@
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/bin/Debug/net7.0/leetCode
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/bin/Debug/net7.0/leetCode.deps.json
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/bin/Debug/net7.0/leetCode.runtimeconfig.json
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/bin/Debug/net7.0/leetCode.dll
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/bin/Debug/net7.0/leetCode.pdb
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.AssemblyInfoInputs.cache
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.AssemblyInfo.cs
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.csproj.CoreCompileInputs.cache
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.dll
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/refint/leetCode.dll
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.pdb
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/leetCode.genruntimeconfig.cache
+/Users/danial/Google Drive/222 learning/c#/leetCode/leetCode/leetCode/obj/Debug/net7.0/ref/leetCode.dll
